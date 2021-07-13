@@ -1,0 +1,10 @@
+{
+
+    "main": {
+        "name": "HypeLockdown",
+        "commands": "5",
+        "events": "2",
+        "support": "https://support.hyperz.dev/"
+    }
+
+}
